@@ -6,9 +6,6 @@ Este proyecto incluye código en `HTML` y está pensado para:
 2. Conocer GIT
 3. Interactuar con GitHub
 4. Mejorar nuestras habilidades en Git/Github
-5. Practicar para nuestro proyecto integrador4. Mejorar nuestras habilidades en Git/Github
-5. Practicar para nuestro proyecto integrador4. Mejorar nuestras habilidades en Git/Github
-5. Practicar para nuestro proyecto integrador4. Mejorar nuestras habilidades en Git/Github
 5. Practicar para nuestro proyecto integrador
 ---
 
